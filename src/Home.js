@@ -46,14 +46,14 @@ const Home = () => {
             <img src='imgs/social/linkedin.png' alt='' width={"40px"} />
         </a> */}
         <h4>Software Engineer</h4>
-        <img src='imgs/srajan.jpg' alt="boy" className="w3-image img-thumbnail" width="500" height="600" />
+        <img src='imgs/srajan.jpg' alt="" className="w3-image img-thumbnail" width="500" height="600" />
       </header>
       <div className="w3-container w3-dark-grey" style={{width:'800px',marginLeft:'10%'}}> 
-        <h4><i> - working at</i></h4>
-        <img src="imgs/company/psl.jpg" alt="" width={'50px'} />
-        <h2>Persistent Systems</h2>
-        <h4 className='text-warning'>Hinjewadi,Pune</h4>
-        <p>Java Full Stack Developer</p>
+        {/* <h4><i> - working at</i></h4> */}
+        {/* <img src="imgs/company/psl.jpg" alt="" width={'50px'} /> */}
+        <h2>Software Engineer</h2>
+        <h4 className='text-warning'>Pune</h4>
+        {/* <p>Java Full Stack Developer</p> */}
         
         <hr />
       </div>
@@ -63,9 +63,10 @@ const Home = () => {
         <p>My strongest skill is my creativity.
             I have a good Interest in reading and learning new skills. I like to learn new concepts , building logics and create many
             programmes.
-            I am able to build logics using data structures and I have a good command in C , Java and Python.
-            I like to create and develop we applications. 
-            Currently , I am working as Software Engineer Full Time Employee in Persistent Systems. 
+            Results-driven Full Stack Developer with expertise in Reactjs, Java, and Python. Proven track
+record at Persistent Systems, excelling in both frontend and backend development.
+Meticulous problem solver, ensuring high-quality and scalable solutions. A collaborative
+team player with a passion for driving innovation in web applications 
         </p>
       </div>
 
@@ -89,43 +90,43 @@ const Home = () => {
     </div>
     <p className="w3-wide">JavaScript</p>
     <div className="w3-white">
-      <div className="w3-dark-grey" style={styles[1]}></div>
+      <div className="w3-dark-grey" style={styles[0]}></div>
     </div>
      <p className="w3-wide">Bootstrap</p>
     <div className="w3-white">
       <div className="w3-dark-grey" style={styles[1]}></div>
     </div>
-    <p className="w3-wide">C</p>
+    <p className="w3-wide">React</p>
+    <div className="w3-white">
+      <div className="w3-dark-grey" style={styles[1]}></div>
+    </div>
+    <p className="w3-wide">Typescript</p>
+    <div className="w3-white">
+      <div className="w3-dark-grey" style={styles[2]}></div>
+    </div>
+    <p className="w3-wide">Node.js</p>
+    <div className="w3-white">
+      <div className="w3-dark-grey" style={styles[2]}></div>
+    </div>
+    <p className="w3-wide">Express</p>
     <div className="w3-white">
       <div className="w3-dark-grey" style={styles[3]}></div>
     </div>
-    <p className="w3-wide">Python</p>
+    <p className="w3-wide">MongoDB</p>
     <div className="w3-white">
-      <div className="w3-dark-grey" style={styles[1]}></div>
+      <div className="w3-dark-grey" style={styles[3]}></div>
     </div>
     <p className="w3-wide">Java</p>
     <div className="w3-white">
       <div className="w3-dark-grey" style={styles[3]}></div>
     </div>
-    <p className="w3-wide">Django</p>
+    <p className="w3-wide">Python</p>
     <div className="w3-white">
-      <div className="w3-dark-grey" style={styles[4]}></div>
+      <div className="w3-dark-grey" style={styles[2]}></div>
     </div>
-    <p className="w3-wide">React js</p>
+    <p className="w3-wide">Web3</p>
     <div className="w3-white">
       <div className="w3-dark-grey" style={styles[3]}></div>
-    </div>
-    <p className="w3-wide">MySQL</p>
-    <div className="w3-white">
-      <div className="w3-dark-grey" style={styles[3]}></div>
-    </div>
-    <p className="w3-wide">MS Azure Cloud</p>
-    <div className="w3-white">
-      <div className="w3-dark-grey" style={styles[4]}></div>
-    </div>
-    <p className="w3-wide">Spring Framework</p>
-    <div className="w3-white">
-      <div className="w3-dark-grey" style={styles[4]}></div>
     </div>
     </div>
     <br />
